@@ -1,5 +1,11 @@
 ## Estudo sobre o pandas 
 
+<div style="display: inline_block">
+<br>
+<p>Olá para todos os integrantes...</p>
+<img aling="center" alt="Pandas" src='/home/hedris/Área de Trabalho/Pandas-framework/assets/pandas.jpeg'>
+</div>
+
 <hr>
 
 
@@ -10,9 +16,13 @@
 
 <hr>
 
-### Comando iloc e loc
+## Módulo 01.
 
-*Comandos iloc e loc são otímos para á busca de series em pandas, o iloc ele trabalha de uma forma númerica já o loc pode passa strings*
+**Resumo**
+
+*Estudei comandos aprimorados do pandas, para carregamento e processamento de dados, fiz comparação booleana para verdadeiro  ou  falso, manipulei dados categóricos, atribuir novas função, aprimorei manipulação com comandos para linhas e colunas, estudei mais sobre o pop, dropna, drop, del, junções de análises para outras respostas, por exemplo, somei várias colunas e linhas para ter reposta para o projeto.*
+
+**Arquivos se encontra na pasta src modulo01.**
 
 
-
+<hr>
