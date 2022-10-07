@@ -3,7 +3,7 @@
 <div style="display: inline_block">
 <br>
 <p>Olá para todos os integrantes...</p>
-<img aling="center" alt="Pandas" src='/home/hedris/Área de Trabalho/Pandas-framework/assets/pandas.jpeg'>
+<img aling="center" alt="Pandas" src='assets/pandas.jpeg'>
 </div>
 
 <hr>
